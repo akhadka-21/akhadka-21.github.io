@@ -7,3 +7,5 @@ Before Meta, I was a Postdoctoral Scholar at the University of California San Fr
 Prior to graduate school, I worked as an economic researcher and research manager at the Economic Policy Research Institute in Cape Town, South Africa.
 
 You can find my scholarship at my [Google Scholar page](https://scholar.google.com/citations?user=PCYfHFMAAAAJ&hl=en).
+
+You can view my CV [here](CV.md) 
