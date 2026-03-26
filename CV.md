@@ -3,4 +3,4 @@ layout: default
 title: CV
 ---
 
-<Your CV content here>
+Please check back soon to see my CV.
