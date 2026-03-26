@@ -1,4 +1,3 @@
-# Aayush Khadka
 I am a Research Scientist on the Demography and Survey Science org at Meta, where I lead empirical studies from end-to-end to create actionable insights that inform the company's monetization priorities. 
 
 My work builds on my expertise in causal inference, data science, and survey science. I collaborate closely with XFN spanning product, engineering, data science, and user experience research teams. More recently, I have been leveraging AI tooling to re-think the research pipeline and build research-relevant products.
