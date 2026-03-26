@@ -1,8 +1,3 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 title: Aayush Khadka
 show_downloads: false
-nav:
-  - name: Home
-    url: /
-  - name: CV
-    url: /CV.html
