@@ -8,4 +8,4 @@ Prior to graduate school, I worked as an economic researcher and research manage
 
 You can find my scholarship at my [Google Scholar page](https://scholar.google.com/citations?user=PCYfHFMAAAAJ&hl=en).
 
-You can view my CV [here](CV.md) 
+You can view my CV [here](CV.md).
